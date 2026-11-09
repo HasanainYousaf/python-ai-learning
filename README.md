@@ -15,4 +15,20 @@ My journey to becoming an AI Engineer.
 - Git and GitHub
 
 ## Goal
-To become a professional AI Engineer.
+To become a professional AI Engineer. 
+
+
+## Week 2: Data Science Fundamentals
+
+### Day 1: Git and GitHub
+- Git Basics
+- GitHub Repository
+- Push and Pull
+
+### Day 2: NumPy Fundamentals
+- Array Creation
+- Indexing and Slicing
+- Mathematical Operations
+- Aggregation Functions
+- Student Marks Analyzer Mini Project
+
