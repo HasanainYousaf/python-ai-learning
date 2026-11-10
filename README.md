@@ -32,3 +32,10 @@ To become a professional AI Engineer.
 - Aggregation Functions
 - Student Marks Analyzer Mini Project
 
+### Day 3: Pandas Fundamentals
+- Series and DataFrame
+- DataFrame Inspection
+- Selecting Rows and Columns
+- Filtering Data
+- Reading and Writing CSV Files
+- Student Performance Analyzer
