@@ -39,3 +39,13 @@ To become a professional AI Engineer.
 - Filtering Data
 - Reading and Writing CSV Files
 - Student Performance Analyzer
+
+### Day 4: Matplotlib Fundamentals
+- Line Plot
+- Bar Chart
+- Scatter Plot
+- Histogram
+- Pie Chart
+- Grid and Legend
+- Student Performance Visualization Mini Project
+
