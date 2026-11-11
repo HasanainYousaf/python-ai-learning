@@ -49,3 +49,28 @@ To become a professional AI Engineer.
 - Grid and Legend
 - Student Performance Visualization Mini Project
 
+
+## Week 2 - Day 5: Seaborn
+
+### Topics Covered
+- Introduction to Seaborn
+- Scatterplot
+- Lineplot
+- Barplot
+- Histogram
+- Boxplot
+- Pairplot
+- Heatmap
+- Data Visualization
+- Correlation Analysis
+
+### Mini Project
+Student Performance Visualization
+
+### Skills Learned
+- Visualizing student performance
+- Understanding data distributions
+- Analyzing feature relationships
+- Creating correlation heatmaps
+- Exploratory Data Analysis (EDA)
+
