@@ -74,3 +74,29 @@ Student Performance Visualization
 - Creating correlation heatmaps
 - Exploratory Data Analysis (EDA)
 
+
+## Week 2 - Day 6: Exploratory Data Analysis (EDA)
+
+### Topics Covered
+- Introduction to EDA
+- Dataset Understanding
+- Missing Values Analysis
+- Duplicate Values Analysis
+- Data Filtering
+- Outlier Detection
+- Correlation Analysis
+- Feature Scaling
+- Normalization (MinMaxScaler)
+- Standardization (StandardScaler)
+
+### Mini Project
+Student Performance Data Analysis
+
+### Skills Learned
+- Data inspection using Pandas
+- Handling missing and duplicate values
+- Filtering and analyzing datasets
+- Detecting outliers
+- Understanding feature correlations
+- Applying feature scaling
+- Preparing data for Machine Learning
