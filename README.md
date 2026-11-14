@@ -100,3 +100,31 @@ Student Performance Data Analysis
 - Understanding feature correlations
 - Applying feature scaling
 - Preparing data for Machine Learning
+
+
+## Week 2 - Day 7: Data Preprocessing
+
+### Topics Covered
+- Introduction to Data Preprocessing
+- Missing Values Handling
+- Label Encoding
+- One-Hot Encoding
+- Feature Scaling
+- MinMaxScaler
+- StandardScaler
+- Train-Test Split
+
+### Practical Work
+- Handling missing values using Pandas
+- Encoding categorical data
+- Scaling numerical features
+- Splitting datasets into training and testing data
+
+### Mini Project
+Student Performance Data Preprocessing
+
+### Tools Used
+- Python
+- Pandas
+- Scikit-learn
+
