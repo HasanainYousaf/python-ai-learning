@@ -154,7 +154,7 @@ Student Performance Data Preprocessing
 - day8_linear_regression.py
 - day8_model_evaluation.py
 - day8_regression_visualization.py
-- day8_linear_regression_project.py
+- day9_linear_regression_project.py
 
 ### Mini Project
 Student Marks Prediction using Linear Regression.
