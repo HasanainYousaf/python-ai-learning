@@ -128,3 +128,44 @@ Student Performance Data Preprocessing
 - Pandas
 - Scikit-learn
 
+
+
+## Week 2 - Day 8: Introduction to Machine Learning
+
+### Topics Covered
+1. Introduction to Machine Learning
+2. Types of Machine Learning
+3. Regression vs Classification
+4. Linear Regression
+5. Training a Machine Learning Model
+6. Model Evaluation
+   - Mean Absolute Error (MAE)
+   - Mean Squared Error (MSE)
+   - R2 Score
+7. Regression Visualization
+8. Student Marks Prediction Project
+
+### Libraries Used
+- NumPy
+- Matplotlib
+- Scikit-learn
+
+### Python Files
+- day8_linear_regression.py
+- day8_model_evaluation.py
+- day8_regression_visualization.py
+- day8_linear_regression_project.py
+
+### Mini Project
+Student Marks Prediction using Linear Regression.
+
+The model predicts student marks based on study hours.
+
+### Skills Learned
+- Creating a Linear Regression model
+- Training and testing a model
+- Making predictions
+- Evaluating model performance
+- Visualizing regression results
+
+
