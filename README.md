@@ -169,3 +169,57 @@ The model predicts student marks based on study hours.
 - Visualizing regression results
 
 
+# Week 2 - Day 9: Classification in Machine Learning
+
+## Topics Covered
+
+1. Introduction to Classification
+2. Logistic Regression
+3. Confusion Matrix
+4. Classification Model Evaluation
+5. Train-Test Split
+6. K-Nearest Neighbors (KNN)
+7. Decision Tree
+8. Random Forest
+9. Naive Bayes
+10. Support Vector Machine (SVM)
+11. Classification Algorithm Comparison
+12. Classification Mini Project
+13. Advanced Model Evaluation
+14. Cross-Validation
+15. GridSearchCV
+16. RandomizedSearchCV
+17. Feature Engineering
+18. Feature Selection
+19. Machine Learning Pipeline
+20. Pipeline with Cross-Validation
+21. Complete Machine Learning Workflow
+22. Machine Learning Final Assessment
+
+## Libraries Used
+
+- Pandas
+- NumPy
+- Scikit-learn
+
+## Projects
+
+- Student Pass/Fail Prediction
+- Complete Machine Learning Workflow
+- Classification Model Evaluation
+
+## Skills Learned
+
+- Classification algorithms
+- Model evaluation
+- Hyperparameter tuning
+- Feature engineering
+- Feature selection
+- Machine Learning pipelines
+- Cross-validation
+- Making predictions on new data
+
+**Status:** Completed
+
+
+
